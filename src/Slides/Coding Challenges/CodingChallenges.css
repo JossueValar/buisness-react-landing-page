@@ -1,0 +1,39 @@
+code {
+    font-size: 14px;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.Individual {
+    background-color: lightgreen;
+}
+
+.Group {
+    background-color: orange;
+}
+
+.Pairs {
+    background-color: #04d9ff;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+.container-slide {
+    background-image: url('../../assets/waveMid.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#coding-challenges-ref1 {
+    top: -55px;
+    position: absolute;
+}
+
+#coding-challenges-ref2 {
+    top: -45px;
+    position: absolute;
+}

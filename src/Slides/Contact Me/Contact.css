@@ -1,0 +1,29 @@
+#contact {
+    background-image: url('../../assets/waveBott.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: -1px;
+}
+
+.paper-form {
+    max-width: 400px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+
+.paper-form .material-input {
+    margin: 10px auto;
+    display: block;
+    width: 100%;
+}
+
+.MuiInputBase-root {
+    width: inherit;
+}
+
+form {
+    margin: 10px;
+}

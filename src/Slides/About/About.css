@@ -1,0 +1,13 @@
+#about {
+    background-image: url('../../assets/waveTop.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: -1px;
+}
+
+@media screen and (max-width: 600px) {
+    #about {
+        min-height: 800px;
+    }
+}
